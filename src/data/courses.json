@@ -1,0 +1,33 @@
+[
+  {
+    "id": "js",
+    "title": "JavaScript Basics",
+    "slug": "javascript-basics",
+    "description": "Learn JavaScript from scratch"
+  },
+  {
+    "id": "next",
+    "title": "Next.js Fundamentals",
+    "slug": "nextjs-fundamentals",
+    "description": "Learn Next.js step by step"
+  },
+
+    {
+    "id": "Tailwind",
+    "title": "Tailwind CSS Fundamentals",
+    "slug": "tailwind-css-fundamentals",
+    "description": "Learn Tailwind CSS step by step"
+  },
+  {
+    "id": "GSAP",
+    "title": "GSAP Basics",
+    "slug": "gsap-basics",
+    "description": "Learn GSAP from scratch"
+  },
+  {
+    "id": "C++",
+    "title": "C++ full Course",
+    "slug": "cpp-intro",
+    "description": "Learn C++ from scratch"
+  }
+]

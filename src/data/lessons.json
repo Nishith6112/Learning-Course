@@ -1,0 +1,52 @@
+[
+  {
+    "courseId": "js",
+    "slug": "variables",
+    "title": "JavaScript Variables",
+    "videoUrl": "https://www.youtube.com/embed/W6NZfCO5SIk",
+    "content": "Variables store values."
+  },
+  {
+    "courseId": "js",
+    "slug": "functions",
+    "title": "JavaScript Functions",
+    "videoUrl": "https://www.youtube.com/embed/8dWL3wF_OMw",
+    "content": "Functions are reusable blocks."
+  },
+  {
+    "courseId": "next",
+    "slug": "next-js-full-course",
+    "title": "Next Js Full Course",
+    "videoUrl": "https://www.youtube.com/embed/eaQc7vbV4po",
+    "content": "Next.js is a React framework for production."
+  },
+  {
+    "courseId": "next",
+    "slug": "file-based-routing",
+    "title": "File-based Routing",
+    "videoUrl": "https://www.youtube.com/embed/mTz0GXj8NN0",
+    "content": "Next.js uses file-based routing."
+  },
+   {
+    "courseId": "Tailwind",
+    "slug": "tailwind-intro",
+    "title": "Tailwind CSS Introduction",
+    "videoUrl": "https://www.youtube.com/embed/_9mTJ84uL1Q?start=371",
+    "content": "Learn Tailwind CSS step by step."
+  },
+  {
+    "courseId": "GSAP",
+    "slug": "gsap-intro",
+    "title": "GSAP Introduction",
+    "videoUrl": "https://www.youtube.com/embed/l0bQI4m3Ook",
+    "content": "Learn GSAP from scratch."
+  },
+  {
+    "courseId": "C++",
+    "slug": "cpp-intro",
+    "title": "C++ Introduction",
+    "videoUrl": "https://www.youtube.com/embed/e7sAf4SbS_g",
+    "content": "Learn C++ from scratch."
+  }
+
+]
